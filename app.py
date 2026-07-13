@@ -8,6 +8,7 @@ Data expected: uac_features.csv (produced by the Phase 1-4 notebooks),
 placed in the same folder as this file.
 """
 
+import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
@@ -139,7 +140,8 @@ total_change_pct = (
 avg_net_intake = filtered["net_daily_intake"].dropna().mean()
 avg_volatility = filtered["volatility_7d"].dropna().mean()
 pct_days_backlog = filtered["backlog_indicator"].mean() * 100
-avg_discharge_ratio = filtered["discharge_offset_ratio"].dropna().mean()
+clean_ratio = filtered["discharge_offset_ratio"].replace([np.inf, -np.inf], np.nan)
+avg_discharge_ratio = clean_ratio.dropna().mean()
 
 col1, col2, col3, col4, col5 = st.columns(5)
 col1.metric("Total Children Under Care", f"{int(total_now):,}", f"{total_change_pct:+.1f}% in range")
