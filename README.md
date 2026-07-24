@@ -226,6 +226,13 @@ This opens the dashboard at `http://localhost:8501`.
 - The Discharge Offset Ratio is undefined (division by zero) on any day with zero transfers out; these days are excluded from averages rather than treated as zero or infinite.
 - All KPI "trailing 30-day" figures depend on the most recent date present in the loaded dataset — if the CSV isn't refreshed, the dashboard will keep reporting relative to that fixed date.
 
+## 📚 Project Resources
+
+| Resource | Link |
+|----------|------|
+| 📄 Research Paper | [View Research Paper](https://docs.google.com/document/d/1_FrHUP22dGAuuDQA3V8HkbkpI01e1xsvgcN6MbdZS5c/edit?usp=sharing) |
+
+
 ## Possible Future Improvements
 
 - Automate ingestion of new daily reports (currently a manual CSV refresh)
