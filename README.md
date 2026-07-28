@@ -236,12 +236,7 @@ This opens the dashboard at `http://localhost:8501`.
 
 ## 🎥 Embedded Presentation
 
-Here’s the project presentation (Google Slides):
-
-<iframe src="https://docs.google.com/presentation/d/1A2OavoubRwsi5CJ-CS1t-VUThZ1ZPVIYZS4ohZ9KaC0/embed?start=false&loop=false&delayms=3000" 
-frameborder="0" width="800" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-👉 [Open in Google Slides](https://docs.google.com/presentation/d/1A2OavoubRwsi5CJ-CS1t-VUThZ1ZPVIYZS4ohZ9KaC0/edit?usp=sharing)
+[![Presentation Preview](https://img.shields.io/badge/View-Slides-blue?style=for-the-badge&logo=google-slides)](https://docs.google.com/presentation/d/1A2OavoubRwsi5CJ-CS1t-VUThZ1ZPVIYZS4ohZ9KaC0/edit?usp=sharing)
 
 ---
 
