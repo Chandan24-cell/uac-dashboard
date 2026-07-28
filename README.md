@@ -200,7 +200,7 @@ notebooks/ (development artifacts, not required to run the dashboard)
 
 ## How to Run This Project
 
-**View it live:** *[insert your Streamlit Cloud URL]* — no installation needed.
+**View it live:** https://uac-dashboardgit-gogadfdaq4mloyexfrnqj3.streamlit.app — no installation needed.
 
 **Run it locally:**
 ```bash
