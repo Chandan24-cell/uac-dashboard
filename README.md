@@ -232,6 +232,10 @@ This opens the dashboard at `http://localhost:8501`.
 |----------|------|
 | 📄 Research Paper | [View Research Paper](https://docs.google.com/document/d/1_FrHUP22dGAuuDQA3V8HkbkpI01e1xsvgcN6MbdZS5c/edit?usp=sharing) |
 
+## 📌 Embedded View
+<iframe src="https://docs.google.com/presentation/d/1A2OavoubRwsi5CJ-CS1t-VUThZ1ZPVIYZS4ohZ9KaC0/embed?start=false&loop=false&delayms=3000" 
+frameborder="0" width="700" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## 📄 Internship Report
 
 [View Internship Report](https://docs.google.com/document/d/1MBVK9J2KaXOnNRdkAkDgDHsea13z3PUAZ40QV79OJTQ/edit?usp=sharing)
