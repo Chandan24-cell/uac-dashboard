@@ -2,7 +2,7 @@
 
 **A healthcare-systems analytics project analyzing the CBP → HHS care pipeline for Unaccompanied Alien Children (UAC), built as part of an internship with Unified Mentor (dataset context: U.S. Department of Health and Human Services).**
 
-🔗 **Live Dashboard:** *[https://uac-dashboardgit-gogadfdaq4mloyexfrnqj3.streamlit.app]*
+🔗 **Live Dashboard:** * https://uac-dashboardgit-gogadfdaq4mloyexfrnqj3.streamlit.app *
 
 ---
 
